@@ -1,0 +1,118 @@
+.the-page {
+  height: 170vh;
+  width: 100vw;
+  background-color: #9ba9eb;
+  background-size: cover;
+}
+.logo-size {
+  height: 10vh;
+  width: 10vw;
+  margin-left: 140px;
+  margin-top: 20px;
+}
+.first-box {
+  background-color: #5763a5;
+  height: 60vh;
+  width: 75vw;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin-left: 150px;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+.image-setting {
+  height: 230px;
+  width: 230px;
+  margin-right: 90px;
+  margin-top: 20px;
+}
+.first-little-box {
+  background-color: #454f84;
+  height: 38vh;
+  width: 32vw;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 20px;
+}
+.search-bar {
+  margin-left: 20px;
+  height: 25px;
+  width: 300px;
+}
+.search-logo {
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+}
+.for-input {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+.add-button {
+  margin-left: 300px;
+  margin-top: 20px;
+  color: white;
+  background-color: #0b69ff;
+  border-radius: 5px;
+  border: none;
+  height: 25px;
+  width: 55px;
+}
+.second-box {
+  background-color: #5763a5;
+  height: 60vh;
+  width: 75vw;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin-left: 150px;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+.second-first-part {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.your-passwords {
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 20px;
+}
+.down-search {
+  height: 20px;
+  width: 160px;
+  margin-top: 10px;
+  margin-left: -90px;
+  margin-right: 20px;
+}
+.down-search-logo {
+  height: 20px;
+  width: 20px;
+  margin-left: 480px;
+  margin-top: 10px;
+}
+.horizontal-line {
+  width: 70vw;
+  margin-top: -65vh;
+}
+.for-checkbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: -70vh;
+  margin-bottom: 35vh;
+  margin-right: 20px;
+}
+.show-passes {
+  color: #ffffff;
+}

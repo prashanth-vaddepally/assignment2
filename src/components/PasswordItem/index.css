@@ -1,0 +1,17 @@
+.the-box {
+  height: 5vh;
+  width: 9vw;
+  border: solid, #b6c3ca, 2px;
+  display: flex;
+}
+.three-details {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  color: #94a3b8;
+}
+.delete-button {
+  color: #64748b;
+  height: 20px;
+  width: 20px;
+}
